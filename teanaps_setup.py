@@ -34,7 +34,7 @@ subprocess.call("pip install wordcloud", shell=True)
 #!pip install wordcloud
 
 # 7) xlwt (https://pypi.org/project/xlwt/)
-subprocess.call("pip install xlwt", shell=True)
+# subprocess.call("pip install xlwt", shell=True)
 #!pip install xlwt
 
 # 8) KoNLPy (http://konlpy.org/en/latest/#getting-started)
