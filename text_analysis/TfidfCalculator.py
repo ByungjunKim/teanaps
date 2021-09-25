@@ -3,7 +3,7 @@ PLOTLY_USERNAME = con.PLOTLY_USERNAME
 PLOTLY_API_KEY = con.PLOTLY_API_KEY
 from teanaps.visualization import GraphVisualizer
 from teanaps.visualization import TextVisualizer
-from teanaps.handler import FileHandler
+# from teanaps.handler import FileHandler
 
 import plotly 
 from plotly.offline import init_notebook_mode
