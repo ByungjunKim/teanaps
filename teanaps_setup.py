@@ -76,7 +76,7 @@ subprocess.call("pip install soynlp", shell=True)
 #!pip install --upgrade mxnet>=1.5.0
 
 # 17) pytorch_pretrained_bert
-subprocess.call("pip install pytorch_pretrained_bert", shell=True)
+# subprocess.call("pip install pytorch_pretrained_bert", shell=True)
 #!pip install python-igraph
 
 # 18) iGraph (https://pypi.org/project/igraph-python/)
