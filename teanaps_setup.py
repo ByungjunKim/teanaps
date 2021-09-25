@@ -88,15 +88,15 @@ subprocess.call("pip install awscli awsebcli botocore==1.18.18 --upgrade", shell
 #!pip install awscli awsebcli botocore==1.18.18 --upgrade
 
 # 20) pdfminer (https://pypi.org/project/pdfminer/)
-subprocess.call("pip install pdfminer", shell=True)
+# subprocess.call("pip install pdfminer", shell=True)
 #!pip install pdfminer
 
 # 21) docx2txt (https://pypi.org/project/docx2txt/)
-subprocess.call("pip install docx2txt", shell=True)
+# subprocess.call("pip install docx2txt", shell=True)
 #!pip install docx2txt
 
 # 22) python-pptx (https://python-pptx.readthedocs.io/en/latest/)
-subprocess.call("pip install python-pptx", shell=True)
+# subprocess.call("pip install python-pptx", shell=True)
 #!pip install python-pptx
 
 # 23) kss (https://github.com/hyunwoongko/kss?fbclid=IwAR2G4Ym3OwQOeouTokpjTMXo49vpZGuF5mYS7GUsmTSpKehXvDrCqSj-Zhk#korean-sentence-splitter)
