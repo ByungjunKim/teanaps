@@ -54,7 +54,7 @@ subprocess.call("pip install soynlp", shell=True)
 #!pip install soynlp
 
 # 12) PyKoSpacing (https://github.com/haven-jeon/PyKoSpacing)
-subprocess.call("pip install git+https://github.com/haven-jeon/PyKoSpacing.git", shell=True)
+# subprocess.call("pip install git+https://github.com/haven-jeon/PyKoSpacing.git", shell=True)
 #!pip install git+https://github.com/haven-jeon/PyKoSpacing.git
 
 # 13) PyTorch-CRF (https://pypi.org/project/pytorch-crf/)
