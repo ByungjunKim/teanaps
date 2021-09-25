@@ -19,7 +19,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 class TfidfCalculator():  
     def __init__(self):
-#         self.fh = FileHandler()
+        self.fh = FileHandler()
     
     def calculation_tfidf(self, tokenized_sentence_list, tfidf_count=100, tfidf_state=False, ifidf_state="",
                           tf_vectorizer_path=con.TF_VECTORIZER_PATH, tfidf_vectorizer_path=con.TFIDF_VECTORIZER_PATH):
